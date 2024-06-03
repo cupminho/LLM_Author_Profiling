@@ -51,7 +51,7 @@ To reproduce the results of the study, follow the instructions below:
 
 ## Contact
 
-For any questions or issues, please open an issue on this repository or contact the maintainer at [your-email@example.com](mailto:your-email@example.com).
+For any questions or issues, please open an issue on this repository or contact the maintainer at [minho@cup.ac.kr](mailto:minho@cup.ac.kr).
 
 ## License
 
