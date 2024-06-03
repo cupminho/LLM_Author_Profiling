@@ -10,7 +10,7 @@ In this study, we explore the use of large language models (LLMs) for author pro
 
 The original dataset can be downloaded from the National Institute of the Korean Language website at the following link:
 
-- [Original Dataset]([http://www.korean.go.kr/front/](https://kli.korean.go.kr/corpus/main/requestMain.do?lang=en))
+- [Original Dataset](https://kli.korean.go.kr/corpus/main/requestMain.do?lang=en)
 
 The preprocessed CSV file used in this study contains information such as the utterance text, speaker's age, occupation, gender, current residence, and the corresponding original and cleaned utterance forms.
 
@@ -28,7 +28,7 @@ To reproduce the results of the study, follow the instructions below:
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/your-username/LLM_Author_Profiling.git
+    git clone https://github.com/cupminho/LLM_Author_Profiling.git
     cd LLM_Author_Profiling
     ```
 
